@@ -12,4 +12,4 @@ def print_satus(text, status):
     }
     colored_text = colored(text, types[status])
     print(colored_text)
-    
+    print()
