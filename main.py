@@ -11,7 +11,7 @@ from utils import (
 def main() -> None:
     print_menu()
 
-    op = input("> ")
+    op = input(">  ")
 
     if op == '1':
         username = input("username: ")
